@@ -1,5 +1,3 @@
 # hello-world
-
-This is my test repository.  
-
-Grow Glass:+++++++++++++++++++++:+
+##Grow Glass:
+++++++++++++++++++++++
